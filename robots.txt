@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://mnairt.github.io/kun/sitemap.kun.gz
